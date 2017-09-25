@@ -2,6 +2,7 @@
 
 Welcome to the Compute Canada Education, Outreach and Training Tutorial Site! Here you can find links to independent tutorial sessions, multi-day workshops, and other educational content.
 
+_____
 
 ## Introduction to Linux Command Line
 
