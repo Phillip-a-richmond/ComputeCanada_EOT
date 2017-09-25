@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+## Compute Canada Education, Outreach & Training Tutorial Site
 
-You can use the [editor on GitHub](https://github.com/Phillip-a-richmond/ComputeCanada_EOT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Compute Canada Education, Outreach and Training Tutorial Site! Here you can find links to independent tutorial sessions, multi-day workshops, and other educational content.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+For the Introduction to Linux Command Line, find details [here](Details)
+
+
+
+
+
+
+
+
+
 
 ### Markdown
 
