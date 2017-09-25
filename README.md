@@ -12,8 +12,11 @@ Welcome to the Compute Canada Education, Outreach and Training Tutorial Site! He
 + *WHY*:  Because utilizing high performance compute resources for research projects in the 21st century is important.  
 
 #### Important Links
-+ [Etherpad]() 
-+ [
++ [Etherpad](https://etherpad.openstack.org/p/EOT_Tutorial_IntroToLinuxCommandLine) 
++ [Slides](https://docs.google.com/presentation/d/1vaHO9tewJhnpn3CQkIADKnJka4SrKCFb2_zOMTOi7yc/edit#slide=id.g1deaa80ad7_0_0)
++ [Vidyo Broadcast]()
++ [Session Recording]()
+
 
 
 
