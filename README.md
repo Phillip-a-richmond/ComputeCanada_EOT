@@ -18,6 +18,8 @@ Welcome to the Compute Canada Education, Outreach and Training Tutorial Site! He
 + [Session Recording]()
 
 
+_____
+
 ## Introduction to Genomic Analysis
 
 This is a full 7-day workshop series, with documentation found here:
