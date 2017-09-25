@@ -3,7 +3,21 @@
 Welcome to the Compute Canada Education, Outreach and Training Tutorial Site! Here you can find links to independent tutorial sessions, multi-day workshops, and other educational content.
 
 
-For the Introduction to Linux Command Line, find details [here](Details)
+### Introduction to Linux Command Line
+
+*WHEN*: 10:00AM-12:00PM (PDT), Tuesday September 26th, 2017 
+*WHERE*:  Hosted virtually via ComputeCanada Vidyo
+*WHO*:  Academic researchers in Canada 
+*WHAT*: Introduction to Linux Command Line Basics
+*WHY*:  Because utilizing high performance compute resources for research projects in the 21st century is important.
+
+#### Important Links
++ [Etherpad]() 
++ [
+
+
+
+
 
 
 
