@@ -1,0 +1,61 @@
+This problem set will review the basic commands from the lecture, and add some new commands I didn't teach you (GASP!!!)
+
+The examples in this problem set will also guide you through exploring different file formats commonly used in genomics.  
+For help with file formats, use...the Internet!  Example: http://www.ensembl.org/info/website/upload/gff.html 
+
+I know not all of you care about genomics, but this problemset will help build familiarity with the command line.
+
+
+1) Create a "Problemset directory" with your last name and first initial in all caps within:
+/global/scratch/EOT_Tutorials/IntroToLinux/Problemset/
+
+2) Copy this Session1 Problem set into your Problemset directory:
+/global/scratch/EOT_Tutorials/IntroToLinux/Problemset/Session1_Problemset.txt
+
+3) Copy this file into your Problemset directory:
+/global/scratch/EOT_Tutorials/IntroToLinux/Files/genes.gtf
+
+3) Rename the file to be called: hg38_genes.gtf
+
+4) Extract all lines that correspond to the gene "GRN", and save them in a file called GRN.gtf 
+
+5) Double check your GRN.gtf to make sure it only has lines corresponding to GRN in it.  
+If it doesn't, redo your command in #4 using the whole-word option from the grep command.
+
+6) Extract all lines that correspond to the gene "TTN", and save them in a file called TTN.gtf 
+
+7) Delete the smaller of the two gtf files: GRN.gtf or TTN.gtf
+
+8) Make a BED file (chromosome,start,stop tab separated) of the CDS entries for TTN called TTN.bed
+(hint cut -f)
+
+9) Download the clinvar vcf file into your Problemset Directory:
+ftp://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/clinvar.vcf.gz
+
+10) Unzip the clinvar.vcf.gz file
+
+11) Extract all variant lines corresponding to the gene ABCD1 from the clinvar file into a file called:
+ABCD1_clinvar.vcf
+
+12) Check the number of lines in the ABCD1_clinvar.vcf file.
+
+13) Extract all variant lines corresponding to the gene SLC6A8 from the clinvar.vcf file into a file called:
+SLC6A8_clinvar.vcf
+
+14) Concatenate the ABCD1_clinvar.vcf and SLC6A8_clinvar.vcf files into a single file called combined_clinvar.vcf
+
+15) Extract the header lines (starting with "#") from the file clinvar.vcf and add them to the top of combined_clinvar.vcf to make a new file called:
+ABCD1_SLC6A8_clinvar.vcf
+
+16) Compress the file ABCD1_SLC6A8_clinvar.vcf using gzip
+
+17) Edit a new file called: README.txt  
+within your problemset directory.  In it, enter your name, school/research institute, and level of training (e.g. BA/BS, PhD, MA)
+Example:
+Phillip Richmond
+UBC/BC Children's Hospital
+PhD Student
+
+17) Copy your Problemset directory into /global/scratch/EOT_Tutorials/IntroToLinux/Problemset/Finished/
+
+18) Change the permissions on your directory to be read, write, and execute for user, group, and world.
