@@ -39,7 +39,7 @@ Done!
 
 ### Important Links
 + [Etherpad](https://etherpad.openstack.org/p/EOT_Tutorial_IntroToLinuxCommandLine) 
-+ [Slides](https://docs.google.com/presentation/d/1vaHO9tewJhnpn3CQkIADKnJka4SrKCFb2_zOMTOi7yc/edit#slide=id.g1deaa80ad7_0_0)
++ [Slides](https://docs.google.com/presentation/d/10NFhAUhJKRm5HTPmHxhxWVEVFEIn3zfFw9-qpnuo1EY/edit?usp=sharing)
 + [Github Gist](https://gist.github.com/Phillip-a-richmond/a22f4e967c1fd56235f77fbe1c7936f8)
 + [Problem Set](https://github.com/Phillip-a-richmond/ComputeCanada_EOT/blob/master/IntroToLinuxProblemSet.txt)
 + [Vidyo Broadcast]()
