@@ -15,26 +15,26 @@ _____
 ### Before The Course Starts
 For all Mac users, please attempt to login to orcinus using the terminal application on your computer.
 
-Spotlight —> Terminal —> then type: 
-ssh username@orcinus.westgrid.ca
-Enter your password (it won’t look like you’re typing anything but it is registering it)
-Then hit Enter.
+Spotlight —> Terminal —> then type:   
+ssh username@orcinus.westgrid.ca  
+Enter your password (it won’t look like you’re typing anything but it is registering it)  
+Then hit Enter.  
 
-For PC Users, please download MobaXTerm if you would like to follow along.
-The link is here:
-http://mobaxterm.mobatek.net/download.html
-Click on the free home version.
+For PC Users, please download MobaXTerm if you would like to follow along.  
+The link is [here](http://mobaxterm.mobatek.net/download.html):  
+<http://mobaxterm.mobatek.net/download.html>  
+Click on the free home version.  
 
-Then open it up, and login to the orcinus server in the same way:
-ssh username@orcinus.westgrid.ca
-Enter your password (it won’t look like you’re typing anything but it is registering it)
-Then hit Enter.
+Then open it up, and login to the orcinus server in the same way:  
+ssh username@orcinus.westgrid.ca  
+Enter your password (it won’t look like you’re typing anything but it is registering it)  
+Then hit Enter.  
 
-Example:
-ssh wc-guest07@orcinus.westgrid.ca
-(types in password)
-(hits enter)
-Done!
+Example:  
+ssh wc-guest07@orcinus.westgrid.ca  
+(types in password)  
+(hits enter)  
+Done!  
 
 
 ### Important Links
