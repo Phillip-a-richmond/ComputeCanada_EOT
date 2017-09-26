@@ -12,6 +12,31 @@ _____
 + *WHAT*: Introduction to Linux Command Line Basics. 
 + *WHY*:  Because utilizing high performance compute resources for research projects in the 21st century is important.  
 
+### Before The Course Starts
+For all Mac users, please attempt to login to orcinus using the terminal application on your computer.
+
+Spotlight —> Terminal —> then type: 
+ssh username@orcinus.westgrid.ca
+Enter your password (it won’t look like you’re typing anything but it is registering it)
+Then hit Enter.
+
+For PC Users, please download MobaXTerm if you would like to follow along.
+The link is here:
+http://mobaxterm.mobatek.net/download.html
+Click on the free home version.
+
+Then open it up, and login to the orcinus server in the same way:
+ssh username@orcinus.westgrid.ca
+Enter your password (it won’t look like you’re typing anything but it is registering it)
+Then hit Enter.
+
+Example:
+ssh wc-guest07@orcinus.westgrid.ca
+(types in password)
+(hits enter)
+Done!
+
+
 ### Important Links
 + [Etherpad](https://etherpad.openstack.org/p/EOT_Tutorial_IntroToLinuxCommandLine) 
 + [Slides](https://docs.google.com/presentation/d/1vaHO9tewJhnpn3CQkIADKnJka4SrKCFb2_zOMTOi7yc/edit#slide=id.g1deaa80ad7_0_0)
