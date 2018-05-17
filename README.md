@@ -2,6 +2,49 @@
 
 Welcome to the Compute Canada Education, Outreach and Training Tutorial Site! Here you can find links to independent tutorial sessions, multi-day workshops, and other educational content.
 
+
+## Short read mapping and visualization on HPC
+
++ *WHEN* 9:00AM-12:00PM (PDT), Tuesday June 12th, 2018
++ *WHERE* 
++ *WHO*  
++ *WHAT* Short-read mapping and visualization, primer for multiple different pipelines on Compute Canada Cedar system.
++ *WHY* 
+
+### Before the Course Starts
+For all Mac users, please attempt to login to cedar using the terminal application on your computer:
+
+Spotlight —> Terminal —> then type:   
+ssh username@cedar.computecanada.ca  
+Enter your password (it won’t look like you’re typing anything but it is registering it)  
+Then hit Enter.  
+
+For PC Users, please download MobaXTerm. 
+The link is [here](http://mobaxterm.mobatek.net/download.html):  
+<http://mobaxterm.mobatek.net/download.html>  
+Click on the free home version.  
+
+Then open it up, and login to the cedar server in the same way:  
+ssh username@cedar.computecanada.ca  
+Enter your password (it won’t look like you’re typing anything but it is registering it)  
+Then hit Enter.  
+
+Example:  
+ssh wc-guest07@cedar.computecanada.ca
+(types in password)  
+(hits enter)  
+Done!  
+
+### Important Links. 
+
++ [Etherpad]() 
++ [Slides](https://docs.google.com/presentation/d/1O2BewoJgp-m3aEKYm8XnVlPJBEnBaWeO_UJ0yKhz8Lw/edit#slide=id.g1deaa80ad7_0_0)
++ [Github Gist]()
++ [Problem Set]()
++ [Vidyo Broadcast]()
++ [Session Recording]()
+
+
 _____
 
 ## Introduction to Linux Command Line
