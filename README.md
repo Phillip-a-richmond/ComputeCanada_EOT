@@ -38,7 +38,7 @@ Done!
 ### Important Links. 
 
 + [Etherpad]() 
-+ [Slides](https://docs.google.com/presentation/d/1O2BewoJgp-m3aEKYm8XnVlPJBEnBaWeO_UJ0yKhz8Lw/edit#slide=id.g1deaa80ad7_0_0)
++ [Slides](https://docs.google.com/presentation/d/1O2BewoJgp-m3aEKYm8XnVlPJBEnBaWeO_UJ0yKhz8Lw/edit#slide=id.g3bdbd3a49d_0_112)
 + [Github Gist]()
 + [Problem Set]()
 + [Vidyo Broadcast]()
